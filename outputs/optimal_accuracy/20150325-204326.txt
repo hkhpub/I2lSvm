@@ -1,0 +1,4 @@
+[Data set 1] Accuracy: 0.4100
+[Data set 2] Accuracy: 0.6200
+[Data set 3] Accuracy: 0.5000
+[Data set 4] Accuracy: 0.6970
